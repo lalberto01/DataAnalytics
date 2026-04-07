@@ -1,0 +1,24 @@
+1. Before doing any other investigation, list two or three questions that this infographic and explanation of methodology raise in your mind.
+	- How many people did they question?
+	- Who made the data chart with the map?
+
+2. Where can you find Google Trends search data? Provide the URL.
+	-https://trends.google.com/trends/
+
+3.a) What is the highest peak recorded in the line chart for “Interest over time”? - 100
+b) What is the lowest dip recorded? -65
+4. a) What is the highest peak recorded for searches using Hamburger? What is the
+lowest dip? 100 is the highest and 68 is the lowest.
+b) What happened to the line for Milkshake? What do the high and low look like now? The line went lower the high use to be 100 and low 65. The new high is 34 and the new low is 22.
+
+5. Why did the line for Milkshake change? It shows how popular it is and not exact numbers.
+
+6. a) Do you see any patterns that suggest a relationship between searches for Breakup
+and Hamburger? The breakup kept almost same rate while hamburger would increase highly or drop significally. There's no correlation between the two.
+b) How about between Breakup and Milkshake? When breakups get low milkshake popularity goes low as well. 
+
+7. What does all of this suggest about the reliability of the conclusions reached in the
+article? The reliability of the article is not true. The data is not matching the articles discussion. The article had mentioned that milkshakes were one of the popular ones. When breakups increase milkshakes increase. 
+
+8. a) What was the top state by interest for Milkshake? Alabama
+b) What was the top state by interest for Hamburger? South Dakota
