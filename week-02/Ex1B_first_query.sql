@@ -1,0 +1,3 @@
+/*
+Sakila is a database used to collect infromation and used to practice. 
+*/
