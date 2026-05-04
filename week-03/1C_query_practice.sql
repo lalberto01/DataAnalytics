@@ -9,7 +9,7 @@ FROM products
 WHERE unitsinstock >= 100
 ORDER BY unitprice DESC
 -- 3. List products that are at least 100 in hand by price descending and if prices are same, sort by product name( A to Z)
-SELECT Productid, ProductName, UnitPrice
+Select Productid, ProductName, UnitPrice
 FROM products
 WHERE unitsinstock >= 100
 ORDER BY unitprice DESC, productname ASC;

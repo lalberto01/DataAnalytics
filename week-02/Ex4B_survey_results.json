@@ -1,0 +1,110 @@
+[
+	{
+		"ï»¿Id" : 1,
+		"Start time" : "4/7/2026 22:49",
+		"Completion time" : "4/7/2026 22:49",
+		"Email" : "anonymous",
+		"Name" : "",
+		"How often do you visit our coffee shop?" : "Daily",
+		"What could we do to improve your experience?" : "Different flavor options",
+		"How would you rate your overall experience at our coffee shop?" : 5,
+		"How likely are you to recommend us to a friend or colleague?" : 10,
+		"Would you be interested in a free rewards program?" : "Yes"
+	},
+	{
+		"ï»¿Id" : 2,
+		"Start time" : "4/8/2026 8:57",
+		"Completion time" : "4/8/2026 8:57",
+		"Email" : "anonymous",
+		"Name" : "",
+		"How often do you visit our coffee shop?" : "Weekly",
+		"What could we do to improve your experience?" : "More seasonal drinks",
+		"How would you rate your overall experience at our coffee shop?" : 4,
+		"How likely are you to recommend us to a friend or colleague?" : 8,
+		"Would you be interested in a free rewards program?" : "Yes"
+	},
+	{
+		"ï»¿Id" : 3,
+		"Start time" : "4/8/2026 9:52",
+		"Completion time" : "4/8/2026 9:53",
+		"Email" : "anonymous",
+		"Name" : "",
+		"How often do you visit our coffee shop?" : "Weekly",
+		"What could we do to improve your experience?" : "I cannot think of anything right now! You guys are great! ",
+		"How would you rate your overall experience at our coffee shop?" : 5,
+		"How likely are you to recommend us to a friend or colleague?" : 10,
+		"Would you be interested in a free rewards program?" : "Yes"
+	},
+	{
+		"ï»¿Id" : 4,
+		"Start time" : "4/8/2026 11:19",
+		"Completion time" : "4/8/2026 11:24",
+		"Email" : "anonymous",
+		"Name" : "",
+		"How often do you visit our coffee shop?" : "Weekly",
+		"What could we do to improve your experience?" : "",
+		"How would you rate your overall experience at our coffee shop?" : 5,
+		"How likely are you to recommend us to a friend or colleague?" : 10,
+		"Would you be interested in a free rewards program?" : "Yes"
+	},
+	{
+		"ï»¿Id" : 5,
+		"Start time" : "4/8/2026 13:30",
+		"Completion time" : "4/8/2026 13:31",
+		"Email" : "anonymous",
+		"Name" : "",
+		"How often do you visit our coffee shop?" : "Weekly",
+		"What could we do to improve your experience?" : "More cushioned chairs",
+		"How would you rate your overall experience at our coffee shop?" : 5,
+		"How likely are you to recommend us to a friend or colleague?" : 10,
+		"Would you be interested in a free rewards program?" : "Yes"
+	},
+	{
+		"ï»¿Id" : 6,
+		"Start time" : "4/8/2026 13:44",
+		"Completion time" : "4/8/2026 13:45",
+		"Email" : "anonymous",
+		"Name" : "",
+		"How often do you visit our coffee shop?" : "Weekly",
+		"What could we do to improve your experience?" : "Music",
+		"How would you rate your overall experience at our coffee shop?" : 5,
+		"How likely are you to recommend us to a friend or colleague?" : 10,
+		"Would you be interested in a free rewards program?" : "Yes"
+	},
+	{
+		"ï»¿Id" : 7,
+		"Start time" : "4/8/2026 14:40",
+		"Completion time" : "4/8/2026 14:42",
+		"Email" : "anonymous",
+		"Name" : "",
+		"How often do you visit our coffee shop?" : "Weekly",
+		"What could we do to improve your experience?" : "Friendly customer service ",
+		"How would you rate your overall experience at our coffee shop?" : 4,
+		"How likely are you to recommend us to a friend or colleague?" : 8,
+		"Would you be interested in a free rewards program?" : "Yes"
+	},
+	{
+		"ï»¿Id" : 8,
+		"Start time" : "4/8/2026 14:43",
+		"Completion time" : "4/8/2026 14:44",
+		"Email" : "anonymous",
+		"Name" : "",
+		"How often do you visit our coffee shop?" : "Monthly",
+		"What could we do to improve your experience?" : "close shop",
+		"How would you rate your overall experience at our coffee shop?" : 1,
+		"How likely are you to recommend us to a friend or colleague?" : 0,
+		"Would you be interested in a free rewards program?" : "No"
+	},
+	{
+		"ï»¿Id" : 9,
+		"Start time" : "4/9/2026 14:43",
+		"Completion time" : "4/9/2026 14:44",
+		"Email" : "anonymous",
+		"Name" : "",
+		"How often do you visit our coffee shop?" : "Daily",
+		"What could we do to improve your experience?" : "add more sweetener options plz",
+		"How would you rate your overall experience at our coffee shop?" : 4,
+		"How likely are you to recommend us to a friend or colleague?" : 10,
+		"Would you be interested in a free rewards program?" : "Yes"
+	}
+]

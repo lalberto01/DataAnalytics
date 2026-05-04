@@ -8,3 +8,4 @@ f) In order to understand the names of all films on a specific date you would ne
 SELECT rental_date, inventory_id FROM rental;
 SELECT inventory_id, film_id FROM inventory;
 SELECT film_id, title FROM film;
+*/
