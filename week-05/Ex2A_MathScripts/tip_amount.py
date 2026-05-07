@@ -10,3 +10,7 @@ tip_amount = bill_total * (tip_percentage / 100)
 
 # Results
 print("The tip on a $"+ format(bill_total, ".2f") + "restaurant bill is $" + format(tip_amount, ".2f"))
+
+# Input returns as a string always. 
+# If I enter a decimal it will work because float allows decimials 
+
