@@ -1,8 +1,7 @@
 # Description: This script works with a list of favorite movies
-# Author: Sam Q. Newprogrammer
 
 # 1. Create a list of favorite movies
-movies = ["Avatar", "Titanic", "Mean Girls", "The Notebook", "Black Panther"]
+movies = ["Avatar", "Mean Girls", "The Notebook"]
 
 # 2. Print description using len()
 print(f"The list movies includes my top {len(movies)} favorite movies")
