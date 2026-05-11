@@ -1,6 +1,4 @@
 # Description: This script uses tuples and sets to create candy combinations
-# Author: Sam Q. Newprogrammer
-
 # 1. Create two tuples
 
 candy_types = ("Gummy Bears", "Lollipops", "Jelly Beans")
