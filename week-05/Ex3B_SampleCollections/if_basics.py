@@ -1,5 +1,4 @@
 # Description: This script practices basic if statements
-
 # Starting variables
 x = 100
 y = 20
