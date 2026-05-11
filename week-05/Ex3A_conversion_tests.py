@@ -1,6 +1,4 @@
 # Description: This script tests various numeric
-# conversion techniques
-# Author: Sam Q. Newprogrammer
 
 # -------------------------
 # Part 1: Numeric Conversions
