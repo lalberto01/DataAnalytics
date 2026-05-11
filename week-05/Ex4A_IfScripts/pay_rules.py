@@ -1,6 +1,4 @@
 # Description: This script calculates gross pay with overtime
-# Author: Sam Q. Newprogrammer
-
 # Example values
 pay_rate = 17.30
 hours_worked = 45
