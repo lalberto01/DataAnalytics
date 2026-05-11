@@ -1,5 +1,4 @@
 # Description: This script stores and updates mailing address information
-# Author: Sam Q. Newprogrammer
 
 # 1. Create dictionary
 
