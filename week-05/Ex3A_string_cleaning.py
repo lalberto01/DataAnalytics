@@ -1,6 +1,4 @@
 # Description: This script cleans names and salary data
-# Author: Sam Q. Newprogrammer
-
 # Original records
 name_1 = "PRIYA SHARMA"
 name_2 = "bob NGUYEN"
