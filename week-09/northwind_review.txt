@@ -1,0 +1,6 @@
+- Category Id(values such as numbers), Categoryname, Description(explains what products belong to the catergory), Picture
+-The only one with a product key id is category ID.
+- Columns category ID, categoryname, and description will be useful in power BI.
+- Yes, I think all the column are appropriately named.
+- Category ID- whole numbers, categoryname- text, description-text, picture- image.
+- CategoryID may be used to create relationships between tables and group data by category.
